@@ -1,4 +1,4 @@
-NAME = redhat-logos
+NAME = circle-logos
 XML = backgrounds/desktop-backgrounds-default.xml
 
 all: update-po
