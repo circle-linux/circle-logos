@@ -1,13 +1,13 @@
 Artwork in this package is derived from several sources.
 
 Backgrounds:
- - Andy <andy@cclinux.org>
+ - Bella Zhang <bella@cclinux.org>
 
 Anaconda: 
- - Tina <tina@cclinux.org>
+ - Bella Zhang <bella@cclinux.org>
 
 
 Assorted icons and images included in the Circle Linux artwork are borrowed from the
-MIT-licensed Heroicons (https://heroicons.com).
+gnome developer's gnome-icon-theme.
 
-Font used is Overpass from https://github.com/circle-linux/circle-fonts
+Font used is Overpass from http://overpassfont.org/
