@@ -1,2 +1,6 @@
 [org.gnome.desktop.screensaver]
-picture-uri='file:///usr/share/backgrounds/circle/default.xml'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/circle-hue-10.png'
+primary-color='#4d4d4d4d4d4d'
+secondary-color='#4d4d4d4d4d4d'
+
